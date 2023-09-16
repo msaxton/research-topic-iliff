@@ -83,4 +83,4 @@ in order to help my reader understand...
 
 ### Moving forward:
 
-Begin collecting research materials by using key words from your topic as search terms in JumboSearch and other library databases.
+Begin collecting research materials by using key words from your topic as search terms in Primo and other library databases.
